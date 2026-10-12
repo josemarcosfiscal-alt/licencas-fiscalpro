@@ -1,13 +1,9 @@
 {
   "payload": {
     "produto": "fiscalpro",
-    "id": "DB0CC931FCBF",
+    "tipo": "revogacao",
     "cliente": "jose marcos",
-    "emitida": "2026-10-12",
-    "validade": "2026-12-16",
-    "max_empresas": 100,
-    "maquina": "",
-    "renovacao": "https://raw.githubusercontent.com/josemarcosfiscal-alt/licencas-fiscalpro/main/9a3126b6e18c8692.lic"
+    "revogada_em": "2026-10-12T09:53:24.215664"
   },
-  "assinatura": "reEQrNiLyl40M1r6lZH4+qZKCRaBwE9zEDlvn8qAbgG67z3AqNCnPna50fSeggwJf03M7sVONWR+zM2WW7e+Cg=="
+  "assinatura": "b/HEH37YWYuQkx5v7I//nK4j8TitsM127WP/mUSBvuVnjE6FRkO+Xg85WevXa37SCcE/VF36/4NK+1bBHFhEBQ=="
 }
