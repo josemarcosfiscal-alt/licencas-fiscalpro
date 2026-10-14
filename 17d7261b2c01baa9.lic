@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "produto": "fiscalpro",
+    "id": "D19010499D65",
+    "cliente": "Larissa",
+    "emitida": "2026-10-14",
+    "validade": "2026-11-19",
+    "max_empresas": 10,
+    "maquina": "",
+    "emitida_em": "2026-10-14T11:01:33.555384",
+    "renovacao": "https://raw.githubusercontent.com/josemarcosfiscal-alt/licencas-fiscalpro/main/17d7261b2c01baa9.lic"
+  },
+  "assinatura": "NlZjAfNuDvnT5wiFJ+rXj+aKy9I2BNZfKGPWaKuhdwKxwWLhnz8g9yCzHs2mfcgpt2JX3eeKopINxQ3NbVVsDA=="
+}
