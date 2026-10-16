@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "produto": "fiscalpro",
+    "id": "73398D02EAD8",
+    "cliente": "SOLUCAO CONTABIL ONLINE",
+    "emitida": "2026-10-16",
+    "validade": "2026-11-21",
+    "max_empresas": 50,
+    "maquina": "",
+    "emitida_em": "2026-10-16T15:23:58.530204",
+    "renovacao": "https://raw.githubusercontent.com/josemarcosfiscal-alt/licencas-fiscalpro/main/95bcf626b87f7e30.lic"
+  },
+  "assinatura": "VrNC5x61FQaTOKpNYzW70xCfL44/vp6sVAYyucmY3H/G7h2DTmrYq0Md/pBw005QNiDxEgrVAvvovm/3EWb2CA=="
+}
