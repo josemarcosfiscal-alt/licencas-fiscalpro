@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "produto": "fiscalpro",
+    "id": "D6D105C8AD05",
+    "cliente": "CLIENTE TESTE 2",
+    "emitida": "2026-10-16",
+    "validade": "2026-11-21",
+    "max_empresas": 50,
+    "maquina": "",
+    "emitida_em": "2026-10-16T21:42:24.067690",
+    "max_usuarios": 1,
+    "renovacao": "https://raw.githubusercontent.com/josemarcosfiscal-alt/licencas-fiscalpro/main/5a81811fc23ec62d.lic"
+  },
+  "assinatura": "YIkZSRnTDhCNDb10ckHPGwebeeteXS/M8Lx82ygTTB5CzjhKAoFt/USRWcHG7OJFbKQq6FopugIvIFuHxg5WDg=="
+}
